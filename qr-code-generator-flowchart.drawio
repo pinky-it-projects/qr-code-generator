@@ -1,0 +1,128 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="s-4_PEdR5n7P1BPynCd7">
+    <mxGraphModel dx="1030" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;START&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="320" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-3" edge="1" parent="1" source="sKMQ2NSwBT4mKslGyqJi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="sKMQ2NSwBT4mKslGyqJi-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;code&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Vraag websiteadres&lt;/font&gt;&lt;/code&gt;" vertex="1">
+          <mxGeometry height="60" width="300" x="250" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="120" as="sourcePoint" />
+            <mxPoint x="400" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;strong&gt;Verwijder spaties&lt;/strong&gt;&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="290" x="255" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" x="0.5714" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="230" />
+              <mxPoint x="400" y="240" />
+            </Array>
+            <mxPoint x="400" y="240" as="sourcePoint" />
+            <mxPoint x="400" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;strong&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;website leeg?&lt;/font&gt;&lt;/strong&gt;" vertex="1">
+          <mxGeometry height="120" width="275" x="262.5" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="350" as="sourcePoint" />
+            <mxPoint x="400" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;curved=0;" target="sKMQ2NSwBT4mKslGyqJi-20" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="462.5" as="sourcePoint" />
+            <mxPoint x="632.5" y="462.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ja&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="540" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-20" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Toon fout&lt;/font&gt;&lt;span style=&quot;font-size: 14px; text-decoration-line: inherit; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;melding&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="260" x="640" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="520" as="sourcePoint" />
+            <mxPoint x="400" y="595" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Nee&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="395" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-24" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;code&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Vraag website opnieuw&lt;/font&gt;&lt;/code&gt;" vertex="1">
+          <mxGeometry height="80" width="290" x="610" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-25" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="760" y="500" as="sourcePoint" />
+            <mxPoint x="760" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;code&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Verwijder spaties&lt;/font&gt;&lt;/code&gt;" vertex="1">
+          <mxGeometry height="70" width="290" x="610" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-27" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="755" y="670" as="sourcePoint" />
+            <mxPoint x="755" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-38" edge="1" parent="1" source="sKMQ2NSwBT4mKslGyqJi-26" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.524;exitY=1.04;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry relative="1" width="80" x="-0.671" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="1100" />
+              <mxPoint x="510" y="1100" />
+              <mxPoint x="160" y="1100" />
+              <mxPoint x="160" y="460" />
+            </Array>
+            <mxPoint x="760" y="830" as="sourcePoint" />
+            <mxPoint x="260" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-39" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;code&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Toon websiteadres ontvangen&lt;/font&gt;&lt;/code&gt;" vertex="1">
+          <mxGeometry height="70" width="290" x="250" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;code&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Genereer QR-code&lt;/font&gt;&lt;/code&gt;" vertex="1">
+          <mxGeometry height="70" width="290" x="255" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-41" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="sKMQ2NSwBT4mKslGyqJi-40" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="670" as="sourcePoint" />
+            <mxPoint x="400" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;strong&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Sla QR-code op als PNG&lt;/font&gt;&lt;/strong&gt;" vertex="1">
+          <mxGeometry height="70" width="275" x="262.5" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-43" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.475;entryY=-0.034;entryDx=0;entryDy=0;entryPerimeter=0;" target="sKMQ2NSwBT4mKslGyqJi-42" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="395" y="820" as="sourcePoint" />
+            <mxPoint x="395" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-45" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;EINDE&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="240" x="280" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="sKMQ2NSwBT4mKslGyqJi-46" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="395" y="960" as="sourcePoint" />
+            <mxPoint x="395" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

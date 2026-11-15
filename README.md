@@ -24,3 +24,6 @@ python -m pip install "qrcode[pil]"
 ```bash
 python main.py
 ```
+## Flowchart
+
+![QR Code Generator Flowchart](flowchart.png)
